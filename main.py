@@ -36,4 +36,4 @@ try:
     except SyntaxError:
         print('Wrong Syntax')
 except NameError as error
-    print('error')
+    print('error!')
